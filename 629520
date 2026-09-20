@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>اسم کی معرفہ اقسام - عربی گرامر اکیڈمی</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f7f6;
+            margin: 0;
+            padding: 10px;
+            direction: rtl;
+            text-align: right;
+            color: #333;
+        }
+        .container {
+            width: 100%;
+            max-width: 100%;
+            box-sizing: border-box;
+            background: #ffffff;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            font-size: 22px;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #2980b9;
+            font-size: 18px;
+            margin-top: 25px;
+            border-right: 4px solid #3498db;
+            padding-right: 8px;
+            background: #f9fcff;
+            padding-top: 6px;
+            padding-bottom: 6px;
+        }
+        .box {
+            background: #fafbfc;
+            border: 1px solid #e1e4e8;
+            border-radius: 6px;
+            padding: 12px;
+            margin-bottom: 12px;
+        }
+        .lang-ar {
+            font-family: 'Amiri', 'Traditional Arabic', serif;
+            font-size: 18px;
+            color: #8e44ad;
+            margin: 5px 0;
+        }
+        .lang-en {
+            direction: ltr;
+            text-align: left;
+            font-size: 14px;
+            color: #e67e22;
+            margin: 5px 0;
+            font-weight: 600;
+        }
+        .lang-ur {
+            font-size: 15px;
+            color: #2c3e50;
+            margin: 5px 0;
+            line-height: 1.6;
+        }
+        .reason {
+            background: #fef9e7;
+            border-right: 4px solid #f1c40f;
+            padding: 8px;
+            margin-top: 8px;
+            font-size: 13px;
+            line-height: 1.5;
+        }
+        .example {
+            background: #e8f8f5;
+            border-right: 4px solid #27ae60;
+            padding: 8px;
+            margin-top: 8px;
+            font-size: 13px;
+            line-height: 1.5;
+        }
+        .table-container {
+            width: 100%;
+            overflow-x: auto;
+            margin-top: 8px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #fff;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 6px 8px;
+            text-align: center;
+            font-size: 13px;
+        }
+        th {
+            background-color: #34495e;
+            color: white;
+        }
+        .nav-footer {
+            text-align: center;
+            margin-top: 25px;
+            border-top: 1px solid #e0e0e0;
+            padding-top: 15px;
+        }
+        .back-btn {
+            display: inline-block;
+            background: #34495e;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: bold;
+            font-size: 14px;
+        }
+        .copyright {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 12px;
+            color: #7f8c8d;
+            border-top: 1px dashed #dcdde1;
+            padding-top: 12px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>باب دوم: اسم کی معرفہ اقسام</h1>
+        <p class="lang-ur">عربی گرامر میں اسم کی معرفہ کی بنیادی طور پر 6 اقسام ہیں۔ یہاں ان کی تفصیل، مثال، اور معرفہ ہونے کی وجہ بیان کی گئی ہے۔</p>
+
+        <!-- 1. الضمائر -->
+        <h2>1. الضمائر (Pronouns / ضمیریں)</h2>
+        <div class="box">
+            <p class="lang-ur"><strong>اردو:</strong> وہ اسم جو کسی متکلم، مخاطب، یا غائب کی جگہ استعمال ہو۔</p>
+            <p class="lang-en"><strong>English:</strong> Pronouns used in place of a noun for 1st, 2nd, or 3rd person.</p>
+            <p class="lang-ar"><strong>العربية:</strong> ما دَلَّ على متكلم أو مخاطب أو غائب.</p>
+            <div class="reason">
+                <strong>معرفہ ہونے کی وجہ:</strong> ضمیر اس لیے معرفہ ہے کیونکہ اس کا مراجع بالکل متعین ہوتا ہے۔
+            </div>
+            <div class="example">
+                <strong>مثالیں:</strong>
+                <div class="table-container">
+                    <table>
+                        <tr>
+                            <th>قسم</th>
+                            <th>عربی مثال</th>
+                            <th>اردو ترجمہ</th>
+                        </tr>
+                        <tr>
+                            <td>متکلم</td>
+                            <td><span class="lang-ar">أَنَا مُسْلِمٌ</span></td>
+                            <td>میں مسلمان ہوں۔</td>
+                        </tr>
+                        <tr>
+                            <td>مخاطب</td>
+                            <td><span class="lang-ar">أَنْتَ رَجُلٌ</span></td>
+                            <td>آپ مرد ہیں۔</td>
+                        </tr>
+                        <tr>
+                            <td>غائب</td>
+                            <td><span class="lang-ar">هُوَ صَالِحٌ</span></td>
+                            <td>وہ نیک ہے۔</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <!-- 2. اسمِ اشارہ -->
+        <h2>2. اسمِ اشاره (Demonstrative Pronouns)</h2>
+        <div class="box">
+            <p class="lang-ur"><strong>اردو:</strong> وہ اسم جو کسی چیز یا شخص کی طرف اشارہ کرنے کے لیے ہو۔</p>
+            <p class="lang-en"><strong>English:</strong> Words used to point to specific objects or persons.</p>
+            <p class="lang-ar"><strong>العربية:</strong> ما دَلَّ على معين بواسطة إشارة حسية.</p>
+            <div class="reason">
+                <strong>معرفہ ہونے کی وجہ:</strong> اشارہ کرنے کی وجہ سے وہ چیز بالکل واضح ہو جاتی ہے۔</div>
+            <div class="example">
+                <strong>مثال:</strong> <strong><span class="lang-ar" style="display:inline;">هٰذَا كِتَابٌ</span> (یہ کتاب ہے)</strong>۔
+            </div>
+        </div>
+
+        <!-- 3. اسمِ موصول -->
+        <h2>3. اسمِ موصول (Relative Pronouns)</h2>
+        <div class="box">
+            <p class="lang-ur"><strong>اردو:</strong> وہ اسم جو بعد والے جملے کے بغیر پورا مفہوم نہ دے۔</p>
+            <p class="lang-en"><strong>English:</strong> Words that link clauses together.</p>
+            <p class="lang-ar"><strong>العربية:</strong> ما لا يتبين معناه إلا بجملة بعده.</p>
+            <div class="reason">
+                <strong>معرفہ ہونے کی وجہ:</strong> بعد والے جملے (صلہ) کی وضاحت سے خاص ہو جاتا ہے۔</div>
+            <div class="example">
+                <strong>مثال:</strong> <strong><span class="lang-ar" style="display:inline;">جَاءَ الَّذِي نَجَحَ</span> (وہ آیا جو کامیاب ہوا)</strong>۔
+            </div>
+        </div>
+
+        <!-- 4. معرف باللام -->
+        <h2>4. معرف باللام (Nouns with Alif-Lam)</h2>
+        <div class="box">
+            <p class="lang-ur"><strong>اردو:</strong> وہ نکرہ اسم جس کے شروع میں 'ال' لگا دیا جائے۔</p>
+            <p class="lang-en"><strong>English:</strong> An indefinite noun made definite by 'Al'.</p>
+            <p class="lang-ar"><strong>العربية:</strong> اسم نكرة دخلت عليه "أل" التعريف.</p>
+            <div class="reason">
+                <strong>معرفہ ہونے کی وجہ:</strong> 'ال' لگنے سے خاص فرد متعین ہو جاتا ہے۔</div>
+            <div class="example">
+                <strong>مثال:</strong> <strong><span class="lang-ar" style="display:inline;">رَجُلٌ</span></strong> سے <strong><span class="lang-ar" style="display:inline;">الرَّجُلُ</span> (وہ خاص مرد)</strong>۔
+            </div>
+        </div>
+
+        <!-- 5. علم -->
+        <h2>5. العلم (Proper Nouns)</h2>
+        <div class="box">
+            <p class="lang-ur"><strong>اردو:</strong> وہ نام جو کسی شخص یا جگہ کی ذاتی پہچان ہو۔</p>
+            <p class="lang-en"><strong>English:</strong> A proper noun specifying a particular entity.</p>
+            <p class="lang-ar"><strong>العربية:</strong> اسم يوضع لتعيين مسمى معين بذاته.</p>
+            <div class="reason">
+                <strong>معرفہ ہونے کی وجہ:</strong> یہ پیدائشی طور پر ایک ذات کے ساتھ خاص ہوتا ہے۔</div>
+            <div class="example">
+                <strong>مثال:</strong> <strong><span class="lang-ar" style="display:inline;">مُحَمَّدٌ</span></strong> اور <strong><span class="lang-ar" style="display:inline;">مَكَّةُ</span></strong>۔
+            </div>
+        </div>
+
+        <!-- 6. مضاف إلٰی المعرفہ -->
+        <h2>6. مضاف إلٰی المعرفہ</h2>
+        <div class="box">
+            <p class="lang-ur"><strong>اردو:</strong> وہ نکرہ اسم جو کسی معرفہ کی طرف مضاف ہو۔</p>
+            <p class="lang-en"><strong>English:</strong> An indefinite noun made definite by possession.</p>
+            <p class="lang-ar"><strong>العربية:</strong> اسم نكرة أضيف إلى معرفة.</p>
+            <div class="reason">
+                <strong>معرفہ ہونے کی وجہ:</strong> معرفہ کی طرف نسبت سے اس کا ابہام ختم ہو جاتا ہے۔</div>
+            <div class="example">
+                <strong>مثال:</strong> <strong><span class="lang-ar" style="display:inline;">كِتَابُ زَيْدٍ</span> (زید کی کتاب)</strong>۔
+            </div>
+        </div>
+
+        <div class="nav-footer">
+            <a href="index.html" class="back-btn">⬅️ مین ڈیش بورڈ</a>
+        </div>
+
+        <div class="copyright">
+            &copy; 2026 عربی گرامر اکیڈمی. جملہ حقوق محفوظ ہیں۔
+        </div>
+    </div>
+
+</body>
+</html>
