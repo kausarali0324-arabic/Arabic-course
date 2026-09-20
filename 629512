@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عربی گرامر اکیڈمی - مین ڈیش بورڈ</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Noto+Nastaliq+Urdu:wght@400;700&display=swap');
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Noto Nastaliq Urdu', serif;
+            background: linear-gradient(135deg, #f1f5f9 0%, #e2e8f0 100%);
+            color: #1e293b;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .dashboard-container {
+            background: #ffffff;
+            width: 100%;
+            max-width: 480px;
+            padding: 30px 20px;
+            border-radius: 24px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+            border: 1px solid #e2e8f0;
+        }
+
+        .header-section {
+            text-align: center;
+            margin-bottom: 25px;
+        }
+
+        .header-section .icon {
+            font-size: 45px;
+            margin-bottom: 8px;
+        }
+
+        .header-section h1 {
+            font-size: 24px;
+            font-weight: bold;
+            color: #0f172a;
+            margin-bottom: 5px;
+        }
+
+        .header-section p {
+            font-size: 13px;
+            color: #64748b;
+        }
+
+        .divider {
+            height: 2px;
+            background: #f1f5f9;
+            margin: 20px 0;
+            border: none;
+        }
+
+        .menu-list {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .menu-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: #ffffff;
+            border: 2px solid #f1f5f9;
+            padding: 16px 20px;
+            border-radius: 16px;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+        }
+
+        .menu-item:hover {
+            border-color: #0d9488;
+            background: #f8fafc;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(13, 148, 136, 0.1);
+        }
+
+        .menu-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #1e293b;
+        }
+
+        .menu-icon {
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .footer-section {
+            text-align: center;
+            margin-top: 25px;
+            padding-top: 15px;
+            border-top: 1px solid #f1f5f9;
+            font-size: 12px;
+            color: #64748b;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="dashboard-container">
+
+        <!-- Header -->
+        <div class="header-section">
+            <div class="icon">📚</div>
+            <h1>عربی گرامر اکیڈمی</h1>
+            <p>کوثر علی (عربک گرائمر والا)</p>
+        </div>
+
+        <hr class="divider">
+
+        <!-- Navigation Links -->
+        <div class="menu-list">
+            <!-- Lecture 1: Ism Dashboard Link -->
+            <a href="ism_dashboard.html" class="menu-item" style="border-right: 5px solid #d97706;">
+                <div class="menu-title">لیکچر ۱: اسم</div>
+                <span class="menu-icon" style="color: #d97706;">🔸</span>
+            </a>
+
+            <!-- Lecture 2: Faal Dashboard Link -->
+            <a href="fail_dashboard.html" class="menu-item" style="border-right: 5px solid #ea580c;">
+                <div class="menu-title">لیکچر ۲: فعل</div>
+                <span class="menu-icon" style="color: #ea580c;">🔺</span>
+            </a>
+
+            <!-- Lecture 3: Haroof Dashboard Link -->
+            <a href="haroof_dashboard.html" class="menu-item" style="border-right: 5px solid #059669;">
+                <div class="menu-title">لیکچر ۳: حرف</div>
+                <span class="menu-icon" style="color: #059669;">🔹</span>
+            </a>
+        </div>
+
+        <!-- Footer / Copyright -->
+        <div class="footer-section">
+            <p>© 2026 عربی گرامر اکیڈمی</p>
+            <p>جملہ حقوق محفوظ ہیں۔</p>
+        </div>
+
+    </div>
+
+</body>
+</html>
