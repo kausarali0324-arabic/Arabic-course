@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>چیپٹر ۴: حروفِ نصب و جزم - عربی گرامر اکیڈمی</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Noto+Nastaliq+Urdu:wght@400;700&family=Poppins:wght@400;500;600&display=swap');
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Noto Nastaliq Urdu', serif;
+            background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+            color: #1e293b;
+            line-height: 1.8;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 24px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+            border: 1px solid #cbd5e1;
+        }
+
+        .header {
+            text-align: center;
+            border-bottom: 3px solid #047857;
+            padding-bottom: 25px;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 28px;
+            color: #047857;
+            margin-bottom: 8px;
+        }
+
+        .header p {
+            font-family: 'Poppins', sans-serif;
+            font-size: 14px;
+            color: #64748b;
+        }
+
+        h2 {
+            font-size: 22px;
+            color: #0f172a;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            border-right: 5px solid #047857;
+            padding-right: 12px;
+            background: #f0fdf4;
+            padding-top: 6px;
+            padding-bottom: 6px;
+            border-radius: 0 8px 8px 0;
+        }
+
+        h3 {
+            font-size: 18px;
+            color: #334155;
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+
+        p, li {
+            font-size: 16px;
+            color: #334155;
+            margin-bottom: 12px;
+        }
+
+        ul, ol {
+            margin-right: 20px;
+            margin-bottom: 15px;
+        }
+
+        .arabic-text {
+            font-family: 'Amiri', serif;
+            font-size: 20px;
+            color: #047857;
+            direction: rtl;
+            text-align: right;
+            background: #f0fdf4;
+            padding: 10px 15px;
+            border-radius: 8px;
+            margin: 10px 0;
+            border-right: 4px solid #10b981;
+        }
+
+        .english-text {
+            font-family: 'Poppins', sans-serif;
+            font-size: 14px;
+            color: #475569;
+            background: #f1f5f9;
+            padding: 8px 12px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 15px;
+        }
+
+        th, td {
+            border: 1px solid #cbd5e1;
+            padding: 12px;
+            text-align: right;
+        }
+
+        th {
+            background-color: #047857;
+            color: white;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        td:nth-child(even) {
+            background-color: #f8fafc;
+        }
+
+        .nav-buttons {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 2px solid #e2e8f0;
+        }
+
+        .btn {
+            background: #047857;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-size: 15px;
+            font-weight: bold;
+            transition: background 0.3s;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .btn:hover {
+            background: #065f46;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- Header -->
+        <div class="header">
+            <h1>چیپٹر ۴: حروفِ نصب و جزم (نواصب اور جوازمِ مضارع)</h1>
+            <p>Chapter 4: Particles of Naṣb and Jazm (Adoole al-Muḍāri')</p>
+        </div>
+
+        <!-- Section 1 -->
+        <h2>۱. نواصبِ مضارع کا تعارف اور تعریف (Introduction to Nawāṣib al-Muḍāri')</h2>
+        <p><strong>اردو:</strong> عربی گرامر میں **نواصبِ مضارع** وہ حروف ہیں جو صرف فعلِ مضارع پر داخل ہوتے ہیں اور اس کے آخری حرف کو **نصب (زبر)** دیتے ہیں (یا نونِ جمع/تثنیہ گرا دیتے ہیں)۔ فعلِ مضارع اپنے اصل میں مرفوع (پیش والا) ہوتا ہے، لیکن جب یہ حروف اس پر آئیں تو اسے منسوب کر دیتے ہیں۔</p>
+        <div class="arabic-text">النَّوَاصِبُ هِيَ حُرُوفٌ تَدْخُلُ عَلَى الْفِعْلِ الْمُضَارِعِ فَتَنْصِبُهُ.</div>
+        <div class="english-text"><strong>English:</strong> Nawāṣib are particles that exclusively precede the imperfect verb (Fi'l al-Muḍāri') and put it into the accusative state (Naṣb/Fatḥah).</div>
+
+        <h3>مشہور نواصبِ مضارع اور ان کی مثالیں:</h3>
+        <table>
+            <tr>
+                <th>حرفِ ناصب</th>
+                <th>معنی و مفہوم</th>
+                <th>عربی مثال</th>
+                <th>اردو ترجمہ و تشریح</th>
+            </tr>
+            <tr>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">أَنْ</span></td>
+                <td>مصْدریہ (کہ)</td>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">أُريدُ أَنْ أَتَعَلَّمَ</span></td>
+                <td>میں چاہتا ہوں کہ سیکھوں۔ ('أن' نے 'أتعلمَ' کو زبر دی)۔</td>
+            </tr>
+            <tr>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">لَنْ</span></td>
+                <td>ہرگز نہیں (مستقبل کی نفی)</td>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">لَنْ أُخْلِفَ الْوَعْدَ</span></td>
+                <td>میں ہرگز وعدہ خلافی نہیں کروں گا۔ (مستقبل کی تاکیدی نفی)۔</td>
+            </tr>
+            <tr>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">كَيْ</span></td>
+                <td>تاکہ (سببیت)</td>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">جِئْتُ كَيْ أَتَعَلَّمَ</span></td>
+                <td>میں آیا تاکہ علم حاصل کروں۔</td>
+            </tr>
+            <tr>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">إِذَنْ</span></td>
+                <td>پس اس صورت میں (جزا)</td>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">إِذَنْ أَجْتَهِدَ (جواباً لمن قال: أَنَا أَدْرُسُ)</span></td>
+                <td>پس اس صورت میں تم محنت کرو گے۔</td>
+            </tr>
+        </table>
+
+        <!-- Section 2 -->
+        <h2>۲. جوازمِ مضارع کا تعارف اور تعریف (Introduction to Jawāzim al-Muḍāri')</h2>
+        <p><strong>اردو:</strong> عربی گرامر میں **جوازمِ مضارع** وہ حروف یا ادوات ہیں جو فعلِ مضارع پر داخل ہو کر اس کے آخری حرف کو **جزم (سکن)** دیتے ہیں (یا حرفِ علت گرا دیتے ہیں، یا نونِ اعرابی ساقط کر دیتے ہیں)۔</p>
+        <div class="arabic-text">الْجَوَازِمُ هِيَ أَدَوَاتٌ تَدْخُلُ عَلَى الْفِعْلِ الْمُضَارِعِ فَتَجْزِمُهُ.</div>
+        <div class="english-text"><strong>English:</strong> Jawāzim are particles or tools that govern the imperfect verb, placing it in the jussive (Jazm/Sukūn) state.</div>
+
+        <h3>مشهور جوازمِ مضارع اور ان کی مثالیں:</h3>
+        <table>
+            <tr>
+                <th>حرفِ جازم</th>
+                <th>معنی و مفہوم</th>
+                <th>عربی مثال</th>
+                <th>اردو ترجمہ و تشریح</th>
+            </tr>
+            <tr>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">لَمْ</span></td>
+                <td>نفیِ ماضی (نہیں کیا)</td>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">لَمْ يَذْهَبْ زَيْدٌ</span></td>
+                <td>زید نہیں گیا۔ (مضارع کے معنی کو ماضیِ منفی میں بدل دیتا ہے)۔</td>
+            </tr>
+            <tr>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">لَمَّا</span></td>
+                <td>ابھی تک نہیں</td>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">لَمَّا يَأْتِ الرَّسُولُ</span></td>
+                <td>رسول ابھی تک نہیں آیا۔ (قریب المستقبل تک نفی کا امتداد)۔</td>
+            </tr>
+            <tr>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">لَامُ الأَمْر</span></td>
+                <td>حکم دینا (چاہیے)</td>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">لِيَكْتُبْ زَيْدٌ الدَّرْسَ</span></td>
+                <td>زید کو چاہیے کہ سبق لکھے۔ (امر غائب کا صیغہ بناتا ہے)۔</td>
+            </tr>
+            <tr>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">لَا الناهية</span></td>
+                <td>نہی / منع کرنا (مت کرو)</td>
+                <td><span class="arabic-text" style="display:inline-block; padding:0; margin:0; background:none; border:none; color:#047857;">لَا تَذْهَبْ إِلَى السُّوقِ</span></td>
+                <td>بازار مت جاؤ۔ (فعلِ مضارع سے سختی سے منع کرتا ہے)۔</td>
+            </tr>
+        </table>
+
+        <!-- Section 3 -->
+        <h2>۳. تفصیلی وضاحت اور خلاصہ (Detailed Analysis & Summary)</h2>
+        <p><strong>اردو:</strong> نواصب اور جوازم فعلِ مضارع کے اعراب میں تبدیلی لا کر اس کے زمانے اور مفہوم میں زبردست وسعت پیدا کرتے ہیں۔ جب ہم کسی عبارت کو پڑھتے ہیں تو ان حروف کی پہچان ہمیں فعل کی درست ادائیگی (زبر یا جزم) سکھاتی ہے، جو فصاحتِ عربی کی جان ہے۔</p>
+        <div class="english-text"><strong>English:</strong> Nawāṣib and Jawāzim structurally transform the mood and ending of the imperfect verb, allowing precise expression of negation, command, purpose, and condition in Arabic prose.</div>
+
+        <!-- Navigation Buttons -->
+        <div class="nav-buttons">
+            <a href="harf_dashboard.html" class="btn">🏠 حرف ڈیش بورڈ پر جائیں</a>
+            <a href="harf_dashboard.html" class="btn">فہرستِ اسباق ⬅️</a>
+        </div>
+
+    </div>
+
+</body>
+</html>
