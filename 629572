@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>چیپٹر ۲: فعلِ ماضی - عربی گرامر اکیڈمی</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Noto+Nastaliq+Urdu:wght@400;700&family=Poppins:wght@400;500;600&display=swap');
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Noto Nastaliq Urdu', serif;
+            background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+            color: #1e293b;
+            line-height: 1.8;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 24px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+            border: 1px solid #cbd5e1;
+        }
+
+        .header {
+            text-align: center;
+            border-bottom: 3px solid #ea580c;
+            padding-bottom: 25px;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 28px;
+            color: #c2410c;
+            margin-bottom: 8px;
+        }
+
+        .header p {
+            font-family: 'Poppins', sans-serif;
+            font-size: 14px;
+            color: #64748b;
+        }
+
+        h2 {
+            font-size: 22px;
+            color: #0f172a;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            border-right: 5px solid #ea580c;
+            padding-right: 12px;
+            background: #fff7ed;
+            padding-top: 6px;
+            padding-bottom: 6px;
+            border-radius: 0 8px 8px 0;
+        }
+
+        h3 {
+            font-size: 18px;
+            color: #334155;
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+
+        p, li {
+            font-size: 16px;
+            color: #334155;
+            margin-bottom: 12px;
+        }
+
+        ul, ol {
+            margin-right: 20px;
+            margin-bottom: 15px;
+        }
+
+        .arabic-text {
+            font-family: 'Amiri', serif;
+            font-size: 22px;
+            color: #047857;
+            direction: rtl;
+            text-align: right;
+            background: #f0fdf4;
+            padding: 10px 15px;
+            border-radius: 8px;
+            margin: 10px 0;
+            border-right: 4px solid #10b981;
+        }
+
+        .english-text {
+            font-family: 'Poppins', sans-serif;
+            font-size: 14px;
+            color: #475569;
+            background: #f1f5f9;
+            padding: 8px 12px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: #fff;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+
+        th, td {
+            border: 1px solid #e2e8f0;
+            padding: 12px 15px;
+            text-align: right;
+            font-size: 15px;
+        }
+
+        th {
+            background: #ea580c;
+            color: white;
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background: #f8fafc;
+        }
+
+        .nav-buttons {
+            (display): flex;
+            display: flex;
+            justify-content: space-between;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 2px solid #e2e8f0;
+        }
+
+        .btn {
+            background: #0284c7;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-size: 15px;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+        .btn:hover {
+            background: #0369a1;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- Header -->
+        <div class="header">
+            <h1>چیپٹر ۲: فعلِ ماضی</h1>
+            <p>Chapter 2: The Past Tense (فعلِ ماضی) in Arabic Grammar</p>
+        </div>
+
+        <!-- Section 1 -->
+        <h2>۱. فعلِ ماضی کی تعریف (Definition of Past Tense)</h2>
+        <p><strong>اردو:</strong> فعلِ ماضی وہ فعل ہے جس سے گزرے ہوئے زمانے میں کسی کام کا ہونا یا کرنا معلوم ہو۔ یعنی وہ عمل جو بولنے والے کے وقت سے پہلے مکمل ہو چکا ہو۔</p>
+        <div class="arabic-text">الْمَاضِي هُوَ كَلِمَةٌ تدُلُّ عَلَى حُدُثِ عَمَلٍ فِي زَمَنٍ قَبْلَ زَمَنِ التَّكَلُّمِ.</div>
+        <div class="english-text"><strong>English:</strong> The past tense indicates an action that took place and was completed before the time of speaking.</div>
+        <p><strong>مثال:</strong> <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">نَصَرَ زَيْدٌ</span> (زید نے مدد کی - Zaid helped)۔ اس میں مدد کرنے کا کام گزرے ہوئے زمانے میں ہوا ہے۔</p>
+
+        <!-- Section 2 -->
+        <h2>۲. فعلِ ماضی کی گردان (Conjugation of Past Tense)</h2>
+        <p>عربی میں ہر صیغے (غائب، حاضر، متکلم، واحد، تثنیہ، جمع اور مذکر، مؤنث) کے لیے فعلِ ماضی کی الگ شکل ہوتی ہے۔ درج ذیل جدول میں معروف صیغے ملاحظہ ہوں (مثال: فَعَلَ):</p>
+        
+        <table>
+            <tr>
+                <th>صیغہ (Form)</th>
+                <th>صیغے کا نام</th>
+                <th>عربی صیغہ</th>
+                <th>ترجمہ (Urdu / English)</th>
+            </tr>
+            <tr>
+                <td>واحد مذکر غائب</td>
+                <td>غائب (مذکر)</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">فَعَلَ</span></td>
+                <td>اس ایک مرد نے کیا (He did)</td>
+            </tr>
+            <tr>
+                <td>تثنیہ مذکر غائب</td>
+                <td>غائب (مذکر)</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">فَعَلَا</span></td>
+                <td>ان دو مردوں نے کیا (They two did)</td>
+            </tr>
+            <tr>
+                <td>جمع مذکر غائب</td>
+                <td>غائب (مذکر)</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">فَعَلُوا</span></td>
+                <td>ان سب مردوں نے کیا (They all did)</td>
+            </tr>
+            <tr>
+                <td>واحد مؤنث غائب</td>
+                <td>غائب (مؤنث)</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">فَعَلَتْ</span></td>
+                <td>اس ایک عورت نے کیا (She did)</td>
+            </tr>
+            <tr>
+                <td>واحد مذکر حاضر</td>
+                <td>حاضر (مذکر)</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">فَعَلْتَ</span></td>
+                <td>تو ایک مرد نے کیا (You did)</td>
+            </tr>
+            <tr>
+                <td>واحد متکلم</td>
+                <td>متکلم (مشترک)</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">فَعَلْتُ</span></td>
+                <td>میں نے کیا (I did)</td>
+            </tr>
+            <tr>
+                <td>جمع متکلم</td>
+                <td>متکلم (مشترک)</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">فَعَلْنَا</span></td>
+                <td>ہم سب نے کیا (We did)</td>
+            </tr>
+        </table>
+
+        <!-- Section 3 -->
+        <h2>۳. ماضی کے ساتھ ضمائر (Pronouns with Past Tense)</h2>
+        <p>فعلِ ماضی کے آخر میں جو حروف یا حرکات آتی ہیں (جیسے ت، نا، و، نا وغیرہ)، وہ دراصل چھپے ہوئے یا جڑے ہوئے ضمائر (Pronouns) ہوتے ہیں جو فاعل کا کام کرتے ہیں۔ مثلاً <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">كَتَبْتُ</span> میں آخر کا <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">تُ</span> ضمیر ہے جس کا مطلب "میں" ہے۔</p>
+
+        <!-- Section 4 -->
+        <h2>۴. فعلِ ماضی کا اعراب (I'rab / Status of Past Tense)</h2>
+        <p><strong>قاعدہ:</strong> فعلِ ماضی ہمیشہ **مَبْنِیّ** ہوتا ہے، یعنی اس کی آخری حالت حالات بدلنے سے تبدیل نہیں ہوتی (سوائے چند خاص صیغوں کے جیسے واوِ جمع لگنے پر ضمہ آنا)۔ اصطلاحی طور پر یہ ہمیشہ **مبنی علی الفتح** (یا ضمہ / سکون بححالتِ صیغہ) ہوتا ہے۔</p>
+
+        <!-- Section 5 -->
+        <h2>۵. ماضی کی نفی (Negation of Past Tense)</h2>
+        <p>فعلِ ماضی کو نفی (منفی بنانے) کے لیے اس سے پہلے حرفِ نفی **مَا** یا **لَمْ** داخل کیا جاتا ہے:</p>
+        <ul>
+            <li><strong>مَا:</strong> ماضی پر آکر اس کے معنی کو ماضی منفی میں بدل دیتا ہے (جیسے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">مَا كَتَبَ</span> - اس نے نہیں لکھا / He did not write)۔</li>
+            <li><strong>لَمْ:</strong> یہ فعلِ مضارع پر آتا ہے لیکن معنی ماضی نفی کے دیتا ہے (جیسے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">لَمْ يَكْتُبْ</span>)۔</li>
+        </ul>
+
+        <!-- Section 6 -->
+        <h2>۶. ماضی معروف و مجہول (Active & Passive Past Tense)</h2>
+        <p>فعلِ ماضی کی دو اہم حالتیں ہیں:</p>
+        <ul>
+            <li><strong>معروف (Active):</strong> جس میں فاعل (کام کرنے والا) معلوم ہو (جیسے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">كَسَرَ زَيْدٌ الزُّجَاجَ</span> - زید نے شیشہ توڑا)۔</li>
+            <li><strong>مجهول (Passive):</strong> جس میں فاعل نامعلوم ہو اور مفعول کو فاعل کی جگہ دے دی جائے (اس میں پہلے حرف پر ضمہ اور آخری سے پہلے پر کسرہ ہوتا ہے، جیسے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">كُسِرَ الزُّجَاجُ</span> - شیشہ توڑ دیا گیا / The glass was broken)۔</li>
+        </ul>
+
+        <!-- Section 7 -->
+        <h2>۷. فعلِ ماضی کے اہم استعمالات (Important Usages)</h2>
+        <p>فعلِ ماضی بنیادی طور پر تو گزرے ہوئے زمانے کے لیے آتا ہے، لیکن عربی بلاغت میں اس کے کچھ اور استعمالات بھی ہیں:</p>
+        <ol>
+            <li><strong>تححقیق و وقوع (Certainty):</strong> کسی ایسی بات کے لیے جو یقینی طور پر ہو کر رہے گی (جیسے قرآنی آیات میں قیامت کے احوال کے لیے ماضی کا صیغہ آتا ہے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">وَجَاءَ رَبُّكَ</span>)۔</li>
+            <li><strong>دعاء یا انشاء (Supplication):</strong> دعا کے موقع پر (جیسے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">رَحِمَهُ اللَّهُ</span> - اللہ اس پر رحم کرے)۔</li>
+        </ol>
+
+        <!-- Navigation Buttons -->
+        <div class="nav-buttons">
+            <a href="fail_chapter1.html" class="btn">⬅️ پچھلا چیپٹر</a>
+            <a href="fail_chapter3.html" class="btn">اگلا چیپٹر ۳ ➡️</a>
+        </div>
+
+    </div>
+
+</body>
+</html>

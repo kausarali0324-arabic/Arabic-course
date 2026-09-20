@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>چیپٹر ۴: فعلِ امر اور نہی - عربی گرامر اکیڈمی</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Noto+Nastaliq+Urdu:wght@400;700&family=Poppins:wght@400;500;600&display=swap');
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Noto Nastaliq Urdu', serif;
+            background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+            color: #1e293b;
+            line-height: 1.8;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 24px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+            border: 1px solid #cbd5e1;
+        }
+
+        .header {
+            text-align: center;
+            border-bottom: 3px solid #ea580c;
+            padding-bottom: 25px;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 28px;
+            color: #c2410c;
+            margin-bottom: 8px;
+        }
+
+        .header p {
+            font-family: 'Poppins', sans-serif;
+            font-size: 14px;
+            color: #64748b;
+        }
+
+        h2 {
+            font-size: 22px;
+            color: #0f172a;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            border-right: 5px solid #ea580c;
+            padding-right: 12px;
+            background: #fff7ed;
+            padding-top: 6px;
+            padding-bottom: 6px;
+            border-radius: 0 8px 8px 0;
+        }
+
+        h3 {
+            font-size: 18px;
+            color: #334155;
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+
+        p, li {
+            font-size: 16px;
+            color: #334155;
+            margin-bottom: 12px;
+        }
+
+        ul, ol {
+            margin-right: 20px;
+            margin-bottom: 15px;
+        }
+
+        .arabic-text {
+            font-family: 'Amiri', serif;
+            font-size: 22px;
+            color: #047857;
+            direction: rtl;
+            text-align: right;
+            background: #f0fdf4;
+            padding: 10px 15px;
+            border-radius: 8px;
+            margin: 10px 0;
+            border-right: 4px solid #10b981;
+        }
+
+        .english-text {
+            font-family: 'Poppins', sans-serif;
+            font-size: 14px;
+            color: #475569;
+            background: #f1f5f9;
+            padding: 8px 12px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: #fff;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+
+        th, td {
+            border: 1px solid #e2e8f0;
+            padding: 12px 15px;
+            text-align: right;
+            font-size: 15px;
+        }
+
+        th {
+            background: #ea580c;
+            color: white;
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background: #f8fafc;
+        }
+
+        .nav-buttons {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 2px solid #e2e8f0;
+        }
+
+        .btn {
+            background: #0284c7;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-size: 15px;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+        .btn:hover {
+            background: #0369a1;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- Header -->
+        <div class="header">
+            <h1>چیپٹر ۴: فعلِ امر اور نہی</h1>
+            <p>Chapter 4: Imperative (فعلِ امر) and Prohibition (فعلِ نہی) in Arabic Grammar</p>
+        </div>
+
+        <!-- Section 1 -->
+        <h2>۱. فعلِ امر کی تعریف (Definition of Imperative Verb)</h2>
+        <p><strong>اردو:</strong> فعلِ امر وہ کلمہ ہے جس کے ذریعے آنے والے زمانے میں کسی کام کے کرنے کا حکم دیا جائے۔ یہ ہمیشہ مخاطب (سامنے والے) کو کہا جاتا ہے۔</p>
+        <div class="arabic-text">أَمْرُ هُوَ الْفِعْلُ الَّذِي يُطْلَبُ بِهِ حُدُثِ عَمَلٍ فِي الزَّمَنِ الْمُسْتَقْبَلِ عَلَى وِجْهِ الْإلْزَامِ.</div>
+        <div class="english-text"><strong>English:</strong> An imperative verb is used to demand or command an action to be performed in the future.</div>
+        <p><strong>مثال:</strong> <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">اُنْصُرْ</span> (تو مدد کر - Help!) / <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">اِجْلِسْ</span> (تو بیٹھ جا - Sit down!).</p>
+
+        <!-- Section 2 -->
+        <h2>۲. فعلِ امر بنانے کا طریقہ (Method of Constructing Imperative)</h2>
+        <p>عربی گرامر میں قاعدے کے مطابق فعلِ امر، **فعلِ مضارعِ مخاطب** سے بنایا جاتا ہے، جس کے درج ذیل مراحل ہیں:</p>
+        <ol>
+            <li>مضارع کے صیغہِ مخاطب سے حرفِ مضارع (ت) کو گرا دیں (جیسے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">تَنْصُرُ</span> سے <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">نْصُرْ</span> بنا)۔</li>
+            <li>اگر پہلا حرف ساکن ہو (جس کو پڑھنا ممکن نہ ہو)، تو شروع میں ایک وصلی حمزہ (ہمزۃ الوصل) لگایا جاتا ہے[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span)۔</li>
+            <li>ہمزہ کی حرکت کا قاعدہ: اگر مضارع کے عین کلمہ پر پیش ہو تو امر کے حمزہ پر بھی پیش آتی ہے (جیسے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">يَنْصُرُ</span> ➔ <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">اُنْصُرْ</span>)، اور اگر زبر یا زیر ہو تو حمزہ پر زیر آتی ہے (جیسے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">يَضْرِبُ</span> ➔ <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">اِضْرِبْ</span>)۔</li>
+            <li>آخری حرف کو **مجزوم (ساکن)** کر دیا جاتا ہے (جیسے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">تَضْرِبُ</span> سے <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">اِضْرِبْ</span>)۔</li>
+        </ol>
+
+        <!-- Section 3 -->
+        <h2>۳. فعلِ امر کی گردان (Conjugation of Imperative)</h2>
+        <p>چونکہ حکم ہمیشہ سامنے والے کو دیا جاتا ہے، اس لیے فعلِ امر کی گردان بنیادی طور پر **صیغہ ہائے مخاطب** سے بنتی ہے:</p>
+        <table>
+            <tr>
+                <th>صیغہ</th>
+                <th>عربی صیغہ</th>
+                <th>ترجمہ (Urdu / English)</th>
+            </tr>
+            <tr>
+                <td>واحد مذکر مخاطب</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">اُنْصُرْ</span></td>
+                <td>تو ایک مرد مدد کر (You help)</td>
+            </tr>
+            <tr>
+                <td>تثنیہ مذکر و مؤنث مخاطب</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">اُنْصُرَا</span></td>
+                <td>تم دو مرد/عورتیں مدد کرو (You two help)</td>
+            </tr>
+            <tr>
+                <td>جمع مذکر مخاطب</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">اُنْصُرُوا</span></td>
+                <td>تم سب مرد مدد کرو (You all help)</td>
+            </tr>
+            <tr>
+                <td>واحد مؤنث مخاطب</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">اُنْصُرِي</span></td>
+                <td>تو ایک عورت مدد کر (You female help)</td>
+            </tr>
+        </table>
+
+        <!-- Section 4 -->
+        <h2>۴. فعلِ امر کا اعراب (Status of Imperative)</h2>
+        <p>فعلِ امر بھی فعلِ ماضی کی طرح **مَبْنِیّ** ہوتا ہے۔ یہ ہمیشہ **مبنی علی السکون** ہوتا ہے (یا حرفِ علت اور نونِ اعرابی کے گرنے کی حالت پر مبنی ہوتا ہے، جیسے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">اُنْصُرُوا</span> میں نون گر جاتا ہے)۔</p>
+
+        <!-- Section 5 -->
+        <h2>۵. فعلِ نہی (Prohibition / Negative Command)</h2>
+        <p><strong>تعریف:</strong> وہ فعل جس کے ذریعے کسی کام سے روکا جائے یا منع کیا جائے (یعنی متضادِ امر)۔ اسے **لاکنہیا (لا الناهية)** کے ذریعے بنایا جاتا ہے[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span)۔</p>
+        <div class="arabic-text">النَّهْيُ هُوَ طَلَبُ كَفِّ عَنِ الْفِعْلِ عَلَى وِجْهِ الْإلْزَامِ.</div>
+        <div class="english-text"><strong>English:</strong> Prohibition is a demand to refrain or stop from doing an action.</div>
+        <p><strong>مثال:</strong> <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">لَا تَحْزَنْ</span> (تو غم نہ کر - Do not grieve) / <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">لَا تَكْذِبْ</span> (تو جھوٹ نہ بول)۔</p>
+
+        <!-- Section 6 -->
+        <h2>۶. فعلِ نہی اور مضارع مجزوم کا باہمی تعلق (Relationship with Jussive Present)</h2>
+        <p>فعلِ نہی دراصل الگ سے کوئی نیا فعل نہیں ہے، بلکہ یہ **فعلِ مضارع کے صیغہِ مخاطب** پر **لا الناهية** (نہی والا لا) داخل کرنے سے بنتا ہے۔</p>
+        <ul>
+            <li>جب یہ 'لا' مضارع پر آتا ہے تو یہ **جازم** (جزم دینے والا حرف) کا کام کرتا ہے۔</li>
+            <li>نتیجے کے طور پر مضارع کا آخری حرف **ساکن** ہو جاتا ہے اور صیغے مجزوم بن جاتے ہیں (جیسے: اصل میں <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">تَنْصُرُ</span> تھا، 'لا' آنے سے وہ <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">لَا تَنْصُرْ</span> یعنی مجزوم ہو گیا)۔</li>
+        </ul>
+
+        <!-- Navigation Buttons -->
+        <div class="nav-buttons">
+            <a href="fail_chapter3.html" class="btn">⬅️ پچھلا چیپٹر</a>
+            <a href="fail_chapter5.html" class="btn">اگلا چیپٹر ۵ ➡️</a>
+        </div>
+
+    </div>
+
+</body>
+</html>

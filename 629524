@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>باب سوم: اسم کی حالتِ اعراب - عربی گرامر اکیڈمی</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f7f6;
+            margin: 0;
+            padding: 10px;
+            direction: rtl;
+            text-align: right;
+            color: #333;
+        }
+        .container {
+            width: 100%;
+            max-width: 100%;
+            box-sizing: border-box;
+            background: #ffffff;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            font-size: 22px;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #2980b9;
+            font-size: 18px;
+            margin-top: 25px;
+            border-right: 4px solid #3498db;
+            padding-right: 8px;
+            background: #f9fcff;
+            padding-top: 6px;
+            padding-bottom: 6px;
+        }
+        .box {
+            background: #fafbfc;
+            border: 1px solid #e1e4e8;
+            border-radius: 6px;
+            padding: 12px;
+            margin-bottom: 12px;
+        }
+        /* خصوصی نوٹ باکس */
+        .benefit-note-box {
+            background: #fff8e1;
+            border: 2px dashed #f39c12;
+            border-radius: 8px;
+            padding: 12px;
+            margin-bottom: 20px;
+        }
+        .benefit-title {
+            color: #d35400;
+            font-weight: bold;
+            font-size: 16px;
+            margin-bottom: 8px;
+            border-bottom: 1px solid #fce8cd;
+            padding-bottom: 4px;
+        }
+        .lang-ar {
+            font-family: 'Amiri', 'Traditional Arabic', serif;
+            font-size: 18px;
+            color: #8e44ad;
+            margin: 6px 0;
+            font-weight: bold;
+        }
+        .lang-en {
+            direction: ltr;
+            text-align: left;
+            font-size: 14px;
+            color: #d35400;
+            margin: 8px 0;
+            font-weight: 600;
+            line-height: 1.5;
+            background: #fdf2e9;
+            padding: 10px;
+            border-left: 3px solid #e67e22;
+            border-radius: 4px;
+        }
+        .lang-ur {
+            font-size: 15px;
+            color: #2c3e50;
+            margin: 8px 0;
+            line-height: 1.7;
+            font-weight: 500;
+        }
+        .definition-box {
+            background: #eef9ff;
+            border-right: 4px solid #3498db;
+            padding: 10px;
+            margin-top: 8px;
+            margin-bottom: 8px;
+        }
+        .example-box {
+            background: #e8f8f5;
+            border-right: 4px solid #27ae60;
+            padding: 10px;
+            margin-top: 10px;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        .table-container {
+            width: 100%;
+            overflow-x: auto;
+            margin-top: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #fff;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+            font-size: 13px;
+        }
+        th {
+            background-color: #34495e;
+            color: white;
+        }
+        .nav-footer {
+            text-align: center;
+            margin-top: 25px;
+            border-top: 1px solid #e0e0e0;
+            padding-top: 15px;
+        }
+        .back-btn {
+            display: inline-block;
+            background: #34495e;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: bold;
+            font-size: 14px;
+        }
+        .copyright {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 12px;
+            color: #7f8c8d;
+            border-top: 1px dashed #dcdde1;
+            padding-top: 12px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>باب سوم: اسم کی حالتِ اعراب<br><span style="font-size: 16px; color: #555;">(States of I'rab in Arabic Nouns)</span></h1>
+        
+        <!-- باب کا خصوصی فائدہ اور اہمیت کا نوٹ -->
+        <div class="benefit-note-box">
+            <div class="benefit-title">🌟 اس باب کو پڑھنے کا عربی زبان میں فائدہ (Learning Benefits & Significance)</div>
+            
+            <p class="lang-ur"><strong>اردو نوٹ:</strong> اس باب کو سیکھنے کا سب سے بڑا فائدہ یہ ہے کہ آپ عربی الفاظ کے آخر میں پیش، زبر یا زیر (رفع، نصب، جر) کی درست شناخت اور استعمال کے قابل ہو جائیں گے۔ اس کے بغیر عربی جملے میں فاعل (کام کرنے والے) اور مفعول (جس پر کام ہو) کی تمیز کرنا ناممکن ہے، جو کہ عربی عبارت کو غلطی کے بغیر پڑھنے اور بولنے کی بنیادی شرط ہے۔</p>
+            
+            <div class="lang-en">
+                English Note: The primary benefit of mastering this chapter is that you will accurately understand and apply vowel endings (Raf', Nasb, Jarr). Without this, distinguishing between the doer (subject) and the receiver (object) in Arabic sentences is impossible, which is essential for correct reading, writing, and speaking.
+            </div>
+            
+            <p class="lang-ar">العربية: فائدة هذا الباب هي تمكين المتعلم من معرفة أواخر الكلمات وضبطها بالرفع والنصب والجر، وهو أساس فهم المعاني وإعراب الجمل العربية بدقة وسلاسة دون لحن أو خطأ.</p>
+        </div>
+
+        <p class="lang-ur"><strong>مقدمہ:</strong> عربی زبان میں اسم کے آخری حرف پر جملے میں اس کے مقام کی وجہ سے جو ظاہری یا تقدیری تبدیلیاں آتی ہیں، انہیں 'اعراب' کہا جاتا ہے۔ اس باب میں ہم اعراب کی تینوں حالتوں، ان کی علامات، اور اسماء کی مختلف اقسام کو اردو، انگریزی اور عربی تینوں زبانوں میں تفصیل سے پڑھیں گے۔</p>
+        
+        <div class="lang-en">
+            Introduction: I'rab refers to the morphological changes or vowel endings on the last letter of a noun based on its grammatical role in a sentence. This chapter covers the three states of I'rab, their primary/secondary signs, and categories of nouns in detail using Urdu, English, and Arabic.
+        </div>
+
+        <!-- 1. رفع، نصب اور جر -->
+        <h2>1. رفع، نصب اور جر (The Three Grammatical Cases)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>اردو تعریف:</strong> عربی زبان میں ہر معرب اسم اپنی حالت کے اعتبار سے ان تین میں سے کسی ایک حالت میں ہوتا ہے: <br>
+                1. <strong>رفع (Raf'):</strong> عام طور پر فاعل (کام کرنے والے) یا مبتدا/خبر کے لیے آتی ہے۔ علامت پیش (ضمہ) ہے۔<br>
+                2. <strong>نصب (Nasb):</strong> عام طور پر مفعول (جس پر کام واقع ہو) کے لیے آتی ہے۔ علامت زبر (فتحہ) ہے۔<br>
+                3. <strong>جر (Jarr):</strong> حرفِ جر یا اضافت (مضاف الیہ) کی وجہ سے آتی ہے۔ علامت زیر (كسرہ) ہے۔</p>
+                
+                <div class="lang-en">
+                    English Definition: Arabic nouns fall into one of three grammatical cases:<br>
+                    1. <strong>Raf' (Nominative):</strong> Typically for the doer (Fa'il) or subject/predicate. Main sign: Dammah (ـُ / ـٌ).<br>
+                    2. <strong>Nasb (Accusative):</strong> Typically for the direct object (Maf'ool). Main sign: Fatha (ـَ / ـً).<br>
+                    3. <strong>Jarr (Genitive):</strong> For nouns following prepositions or in possession. Main sign: Kasra (ـِ / ـٍ).
+                </div>
+                
+                <p class="lang-ar">العربية: حالات الإعراب ثلاثة: الرفع (وعلامته الضمة)، والنصب (وعلامته الفتحة)، والجر (وعلامته الكسرة).</p>
+            </div>
+
+            <div class="example-box">
+                <strong>تعریف کا منطقی اطلاق (Logical Application & Examples):</strong><br>
+                ایک ہی کلمہ (<span class="lang-ar">رَجُلٌ</span>) تینوں حالتوں میں کیسے بدلتا ہے ملاحظہ کریں:
+                <ul>
+                    <li>حالتِ رفع (Raf' - Subject): <span class="lang-ar">جَاءَ <strong>رَجُلٌ</strong></span> (مرد آیا — یہاں مرد فاعل ہے لہٰذا مرفوع ہے)۔</li>
+                    <li>حالتِ نصب (Nasb - Object): <span class="lang-ar">رَأَيْتُ <strong>رَجُلًا</strong></span> (میں نے مرد کو دیکھا — یہاں مرد مفعول ہے لہٰذا منصوب ہے)۔</li>
+                    <li>حالتِ جر (Jarr - Genitive): <span class="lang-ar">مَرَرْتُ بِـ<strong>رَجُلٍ</strong></span> (میرا گزر ایک مرد کے پاس ہوا — حرفِ جر 'ب' کی وجہ سے مجرور ہے)۔</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- 2. اعراب کی اصلی علامات -->
+        <h2>2. اعراب کی اصلی علامات (Primary Signs of I'rab)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>اردو تعریف:</strong> اصلی علامات وہ حرکات (ضمہ، فتحہ، کسرہ) ہیں جو مفرد یا مقصود صحیح اسم کے آخر پر صاف نظر آتی ہیں اور اعراب کو ظاہر کرتی ہیں۔</p>
+                <div class="lang-en">
+                    English Definition: Primary signs are standard vowel markings (Harakat) explicitly visible on the last letter of fully declinable singular nouns (Ism Mufrad Sahih).
+                </div>
+                <p class="lang-ar">العربية: العلامات الأصلية هي الحركات الظاهرة ( الضمة للرفع، الفتحة للنصب، الكسرة للجر ).</p>
+            </div>
+            <div class="example-box">
+                <strong>مثال (Example):</strong><br>
+                كتاب (کتاب):
+                <br>رفع: <span class="lang-ar">هٰذَا <strong>كِتَابٌ</strong></span> (This is a book)
+                <br>نصب: <span class="lang-ar">قَرَأْتُ <strong>كِتَابًا</strong></span> (I read a book)
+                <br>جر: <span class="lang-ar">نَظَرْتُ فِي <strong>كِتَابٍ</strong></span> (I looked in a book)
+            </div>
+        </div>
+
+        <!-- 3. اعراب کی فرعی علامات -->
+        <h2>3. اعراب کی فرعی علامات (Secondary Signs of I'rab)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>اردو تعریف:</strong> فرعی علامات وہ حروف (ا، و، ی) یا متبادل حرکات ہیں جو اصلی حرکات (ضمہ، فتحہ، کسرہ) کی جگہ لیتی ہیں؛ مثلاً تثنیہ، جمع مذکر سالم اور غیر منصرف اسماء میں۔</p>
+                <div class="lang-en">
+                    English Definition: Secondary signs are letters (Alif, Waw, Ya) or substitute vowels that replace primary Harakat in specific categories like Dual, Sound Masculine Plural, and Diptotes.
+                </div>
+                <p class="lang-ar">العربية: العلامات الفرعية هي التي تنوب عن الحركات الأصلية كالحروف (الألف والواو والياء) في حالات معينة.</p>
+            </div>
+            <div class="table-container">
+                <table>
+                    <tr>
+                        <th>قسم (Category)</th>
+                        <th>رفع (Raf' Sign)</th>
+                        <th>نصب (Nasb Sign)</th>
+                        <th>جر (Jarr Sign)</th>
+                    </tr>
+                    <tr>
+                        <td><strong>تثنیہ (Dual)</strong><br>English: Dual Noun</td>
+                        <td>الف و نون (ا) <br><em>Alif & Noon</em><br><span class="lang-ar">مسلمانِ</span></td>
+                        <td>ياء و نون (ي) <br><em>Ya & Noon</em><br><span class="lang-ar">مسلميْنِ</span></td>
+                        <td>ياء و نون (ي) <br><em>Ya & Noon</em><br><span class="lang-ar">مسلميْنِ</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>جمع مذکر سالم</strong><br><em>Sound Masc. Plural</em></td>
+                        <td>واو و نون (و) <br><em>Waw & Noon</em><br><span class="lang-ar">مسلمون</span></td>
+                        <td>ياء و نون (ي) <br><em>Ya & Noon</em><br><span class="lang-ar">مسلمين</span></td>
+                        <td>ياء و نون (ي) <br><em>Ya & Noon</em><br><span class="lang-ar">مسلمين</span></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- 4. مرفوعاتِ اسماء -->
+        <h2>4. مرفوعاتِ اسماء (Nouns in Nominative State / Marfoo'at)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>اردو تعریف:</strong> مرفوعات وہ اسماء ہیں جو جملے میں ایسے بنیادی کردار میں ہوں جن کا تقاضا رفع (حالتِ رفع) ہو۔ ان کی اہم اقسام درج ذیل ہیں:</p>
+                <div class="lang-en">
+                    English Definition: Marfoo'at are nouns that structurally require the nominative (Raf') case based on their grammatical function. Key types include:
+                </div>
+            </div>
+            <div class="example-box">
+                <strong>اہم اقسام اور مثالیں (Key Categories & Examples):</strong>
+                <ol>
+                    <li><strong>الفاعل (The Doer):</strong> جو فعل کا کرنے والا ہو۔<br>مثال: <span class="lang-ar">جَاءَ <strong>الزَّيْدَانِ</strong></span> (دو زید آئے — الف کی وجہ سے مرفوع)۔</li>
+                    <li><strong>المبتدأ والخبر (Subject & Predicate):</strong> جملہ اسمیہ کے دو بنیادی اجزاء۔<br>مثال: <span class="lang-ar"><strong>اَلْعِلْمُ</strong> <strong>نُورٌ</strong></span> (علم نور ہے — دونوں مرفوع ہیں)۔</li>
+                    <li><strong>اسم کان (Subject of Kana):</strong> فعلِ ناقص کا اسم۔<br>مثال: <span class="lang-ar">كَانَ <strong>اللَّهُ</strong> غَفُورًا</span> (اللہ بخشنے والا تھا — 'الله' مرفوع ہے)۔</li>
+                </ol>
+            </div>
+        </div>
+
+        <!-- 5. منصوباتِ اسماء -->
+        <h2>5. منصوباتِ اسماء (Nouns in Accusative State / Mansoobaat)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>اردو تعریف:</strong> منصوبات وہ اسماء ہیں جو جملے میں مفعول یا اضافی کیفیات (حال، ظرف، تمیز وغیرہ) کو ظاہر کرنے کے لیے حالتِ نصب میں آئے۔</p>
+                <div class="lang-en">
+                    English Definition: Mansoobaat are nouns that take the accusative (Nasb) case to express objects, states, adverbs, or specifications.
+                </div>
+            </div>
+            <div class="example-box">
+                <strong>اہم اقسام اور مثالیں (Key Categories & Examples):</strong>
+                <ol>
+                    <li><strong>المفعول به (Direct Object):</strong> جس پر کام واقع ہو۔<br>مثال: <span class="lang-ar">خَلَقَ اللَّهُ <strong>السَّمَاوَاتِ</strong></span> (اللہ نے آسمانوں کو پیدا کیا — 'السماوات' منصوب ہے)۔</li>
+                    <li><strong>الحال (State / Condition):</strong> فاعل یا مفعول کی حالت بیان کرنے والا اسم۔<br>مثال: <span class="lang-ar">جَاءَ الرَّجُلُ <strong>رَاكِبًا</strong></span> (مرد سوار ہو کر آیا — 'راكباً' حالتِ نصب میں ہے)۔</li>
+                    <li><strong>الظرف (Adverb of Time/Place):</strong> وقت یا جگہ کی قید۔<br>مثال: <span class="lang-ar">صُمْتُ <strong>يَوْمَ</strong> الْخَمِيسِ</span> (میں نے جمعرات کے دن روزہ رکھا)۔</li>
+                </ol>
+            </div>
+        </div>
+
+        <!-- 6. مجروراتِ اسماء -->
+        <h2>6. مجروراتِ اسماء (Nouns in Genitive State / Majrooraat)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>اردو تعریف:</strong> مجرورات وہ اسماء ہیں جو کسی حرفِ جر یا اضافت (مضاف الیہ بننے) کی وجہ سے ہمیشہ حالتِ جر میں ہوتے ہیں۔</p>
+                <div class="lang-en">
+                    English Definition: Majrooraat are nouns that take the genitive (Jarr) case either because they are preceded by a preposition or because they act as the second part of a possessive phrase (Mudhaf Ilayh).
+                </div>
+            </div>
+            <div class="example-box">
+                <strong>اہم اقسام اور مثالیں (Key Categories & Examples):</strong>
+                <ol>
+                    <li><strong>مجرور بَحرفِ الجر (By Preposition):</strong> جس کے شروع میں حرفِ جر (من، إلى، في، على وغیرہ) آئے۔<br>مثال: <span class="lang-ar">سَفَرْتُ إِلَى <strong>مَكَّةَ</strong></span> (میں مکہ کی طرف سفر کیا۔ نوٹس: غیر منصرف ہونے کی وجہ سے کسرہ کی بجائے فتحہ آیا ہے مگر حالت جر ہے)۔</li>
+                    <li><strong>المضاف إليه (Possessive Noun):</strong> جو اضافت میں دوسرا حصہ بنے۔<br>مثال: <span class="lang-ar">مفتاحُ <strong>الْبَيْتِ</strong></span> (گھر کی چابی — 'البيت' مضاف الیہ ہونے کی وجہ سے مجرور ہے)۔</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="nav-footer">
+            <a href="index.html" class="back-btn">⬅️ مین ڈیش بورڈ</a>
+        </div>
+
+        <div class="copyright">
+            &copy; 2026 عربی گرامر اکیڈمی (Arabic Grammar Academy). جملہ حقوق محفوظ ہیں۔
+        </div>
+    </div>
+
+</body>
+</html>
