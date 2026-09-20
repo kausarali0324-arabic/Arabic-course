@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>چیپٹر ۳: فعلِ مضارع - عربی گرامر اکیڈمی</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Noto+Nastaliq+Urdu:wght@400;700&family=Poppins:wght@400;500;600&display=swap');
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Noto Nastaliq Urdu', serif;
+            background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+            color: #1e293b;
+            line-height: 1.8;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 24px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+            border: 1px solid #cbd5e1;
+        }
+
+        .header {
+            text-align: center;
+            border-bottom: 3px solid #ea580c;
+            padding-bottom: 25px;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 28px;
+            color: #c2410c;
+            margin-bottom: 8px;
+        }
+
+        .header p {
+            font-family: 'Poppins', sans-serif;
+            font-size: 14px;
+            color: #64748b;
+        }
+
+        h2 {
+            font-size: 22px;
+            color: #0f172a;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            border-right: 5px solid #ea580c;
+            padding-right: 12px;
+            background: #fff7ed;
+            padding-top: 6px;
+            padding-bottom: 6px;
+            border-radius: 0 8px 8px 0;
+        }
+
+        h3 {
+            font-size: 18px;
+            color: #334155;
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+
+        p, li {
+            font-size: 16px;
+            color: #334155;
+            margin-bottom: 12px;
+        }
+
+        ul, ol {
+            margin-right: 20px;
+            margin-bottom: 15px;
+        }
+
+        .arabic-text {
+            font-family: 'Amiri', serif;
+            font-size: 22px;
+            color: #047857;
+            direction: rtl;
+            text-align: right;
+            background: #f0fdf4;
+            padding: 10px 15px;
+            border-radius: 8px;
+            margin: 10px 0;
+            border-right: 4px solid #10b981;
+        }
+
+        .english-text {
+            font-family: 'Poppins', sans-serif;
+            font-size: 14px;
+            color: #475569;
+            background: #f1f5f9;
+            padding: 8px 12px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: #fff;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+
+        th, td {
+            border: 1px solid #e2e8f0;
+            padding: 12px 15px;
+            text-align: right;
+            font-size: 15px;
+        }
+
+        th {
+            background: #ea580c;
+            color: white;
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background: #f8fafc;
+        }
+
+        .nav-buttons {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 2px solid #e2e8f0;
+        }
+
+        .btn {
+            background: #0284c7;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-size: 15px;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+        .btn:hover {
+            background: #0369a1;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- Header -->
+        <div class="header">
+            <h1>چیپٹر ۳: فعلِ مضارع</h1>
+            <p>Chapter 3: The Present and Future Tense (فعلِ مضارع) in Arabic Grammar</p>
+        </div>
+
+        <!-- Section 1 -->
+        <h2>۱. فعلِ مضارع کی تعریف اور علامات (Definition & Signs)</h2>
+        <p><strong>اردو:</strong> فعلِ مضارع وہ فعل ہے جو موجودہ (حال) یا آنے والے (مستقبل) زمانے میں کسی کام کے ہونے یا کرنے کو بتائے۔ اس میں دونوں زمانوں کی صلاحیت ہوتی ہے۔</p>
+        <div class="arabic-text">الْمُضَارِعُ هُوَ الْفِعْلُ الَّذِي يَدُلُّ عَلَى حُدُثِ عَمَلٍ فِي الزَّمَنِ الْحَالِ أَوْ الْمُسْتَقْبَلِ.</div>
+        <div class="english-text"><strong>English:</strong> The present/future tense indicates an action taking place in the present or the future.</div>
+        
+        <p><strong>فعلِ مضارع کی علامات (حروفِ اتایت / أَتَيْتُ):</strong> فعلِ مضارع کے شروع میں چار میں سے کوئی ایک حرف آتا ہے جسے حرفِ مضارع کہتے ہیں (ا، ت، ی، ن)۔ مثال کے طور پر:</p>
+        <ul>
+            <li><span class="arabic-text" style="display:inline-block; padding: 2px 8px;">أَكْتُبُ</span> (میں لکھتا ہوں - I write) - متکلم کے لیے 'أ'</li>
+            <li><span class="arabic-text" style="display:inline-block; padding: 2px 8px;">تَكْتُبُ</span> (تو لکھتا ہے / وہ عورت لکھتی ہے) - مخاطب یا مؤنث غائب کے لیے 'ت'</li>
+            <li><span class="arabic-text" style="display:inline-block; padding: 2px 8px;">يَكْتُبُ</span> (وہ مرد لکھتا ہے - He writes) - مذکر غائب کے لیے 'ي'</li>
+            <li><span class="arabic-text" style="display:inline-block; padding: 2px 8px;">نَكْتُبُ</span> (ہم لکھتے ہیں - We write) - جمع متکلم کے لیے 'ن'</li>
+        </ul>
+
+        <!-- Section 2 -->
+        <h2>۲. فعلِ مضارع کی گردان (Conjugation of Present Tense)</h2>
+        <p>مضارع کی معروف گردان درج ذیل جدول میں ملاحظہ ہو (مثال: یَفْعَلُ):</p>
+        <table>
+            <tr>
+                <th>صیغہ</th>
+                <th>عربی صیغہ</th>
+                <th>ترجمہ (Urdu / English)</th>
+            </tr>
+            <tr>
+                <td>واحد مذکر غائب</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">يَفْعَلُ</span></td>
+                <td>وہ ایک مرد کرتا ہے / کرے گا (He does)</td>
+            </tr>
+            <tr>
+                <td>تثنیہ مذکر غائب</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">يَفْعَلَانِ</span></td>
+                <td>وہ دو مرد کرتے ہیں / کریں گے (They two do)</td>
+            </tr>
+            <tr>
+                <td>جمع مذکر غائب</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">يَفْعَلُونَ</span></td>
+                <td>وہ سب مرد کرتے ہیں / کریں گے (They all do)</td>
+            </tr>
+            <tr>
+                <td>واحد مؤنث غائب</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">تَفْعَلُ</span></td>
+                <td>وہ ایک عورت کرتی ہے / کرے گی (She does)</td>
+            </tr>
+            <tr>
+                <td>واحد مذکر حاضر</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">تَفْعَلُ</span></td>
+                <td>تو ایک مرد کرتا ہے / کرے گا (You do)</td>
+            </tr>
+            <tr>
+                <td>واحد متکلم</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">أَفْعَلُ</span></td>
+                <td>میں کرتا ہوں / کروں گا (I do)</td>
+            </tr>
+            <tr>
+                <td>جمع متکلم</td>
+                <td><span class="arabic-text" style="background:none; border:none; padding:0;">نَفْعَلُ</span></td>
+                <td>ہم کرتے ہیں / کریں گے (We do)</td>
+            </tr>
+        </table>
+
+        <!-- Section 3 -->
+        <h2>۳. مضارع کے ساتھ ضمائر (Pronouns with Present Tense)</h2>
+        <p>مضارع میں فاعل ظاہر کرنے کے لیے حروفِ ضمیر جڑے ہوتے ہیں جیسے الفِ تثنیہ (<span class="arabic-text" style="display:inline-block; padding: 2px 8px;">انِ</span>)، واوِ جمع (<span class="arabic-text" style="display:inline-block; padding: 2px 8px;">ونَ</span>)، اور یائے مخاطب مؤنثہ (<span class="arabic-text" style="display:inline-block; padding: 2px 8px;">ینَ</span>)۔ یہ سب فاعل کا کردار ادا کرتے ہیں۔</p>
+
+        <!-- Section 4 -->
+        <h2>۴. فعلِ مضارع کی اعرابی حالتیں (States of I'rab)</h2>
+        <p>فعلِ ماضی کی طرح مضارع مبنی نہیں ہوتا بلکہ یہ **معرب** ہوتا ہے، یعنی اس کی آخری حالت عامل کی وجہ سے تبدیل ہوتی ہے۔ اس کی تین حالتیں ہیں:</p>
+        
+        <h3>الف) مضارع مرفوع (Nominative State)</h3>
+        <p>جب مضارع پر کوئی عامل (نصب یا جزم دینے والا حرف) نہ ہو تو وہ مرفوع ہوتا ہے۔ اس کی نشانی آخر میں پیش (ضمہ) یا نونِ ثبوت (نون کا باقی رہنا) ہے (جیسے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">يَكْتُبُ</span>، <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">يَكْتُبَانِ</span>)۔</p>
+
+        <h3>ب) مضارع منصوب (Accusative State)</h3>
+        <p>جب مضارع سے پہلے کوئی **ناصب** (نصب دینے والا حرف) آجائے تو وہ منصوب ہو جاتا ہے۔ اس کی نشانی آخر میں زبر (فتحة) یا نون کا گر جانا (حذفِ نون) ہے (جیسے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">لَنْ يَكْتُبَ</span>)۔</p>
+
+        <h3>ج) مضارع مجزوم (Jussive State)</h3>
+        <p>جب مضارع سے پہلے کوئی **جازم** (جزم دینے والا حرف) آجائے تو وہ مجزوم ہو جاتا ہے۔ اس کی نشانی آخر میں جزم (سكون) یا نون کا گر جانا ہے (جیسے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">لَمْ يَكْتُبْ</span>)۔</p>
+
+        <!-- Section 5 -->
+        <h2>۵. نواصبِ مضارع اور جوازمِ مضارع (Particles of Nasb & Jazm)</h2>
+        <ul>
+            <li><strong>نواصبِ مضارع (جو زبر دیتے ہیں):</strong> <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">أَنْ، لَنْ، إِذَنْ، لِكَيْ</span>۔ (مثال: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">أُرِيدُ أَنْ أَدْخُلَ</span> - میں چاہقا ہوں کہ داخل ہوں)۔</li>
+            <li><strong>جوازمِ مضارع (جو جزم دیتے ہیں):</strong> <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">لَمْ، لَمَّا، لِـ (لامِ امر)، لَا (لائے نہی)</span>۔ (مثال: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">لَمْ يَلِدْ وَلَمْ يُولَدْ</span>)۔</li>
+        </ul>
+
+        <!-- Section 6 -->
+        <h2>۶. مضارع معروف و مجہول (Active & Passive Present Tense)</h2>
+        <ul>
+            <li><strong>معروف (Active):</strong> فاعل معلوم ہو (جیسے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">يَضْرِبُ زَيْدٌ</span> - زید مارتا ہے)۔</li>
+            <li><strong>مجهول (Passive):</strong> فاعل نامعلوم ہو، اس میں حرفِ مضارع پر ضمہ اور آخری سے پہلے حرف پر فتحہ (زبر) ہوتی ہے (جیسے: <span class="arabic-text" style="display:inline-block; padding: 2px 8px;">يُضْرَبُ</span> - مارا جاتا ہے)۔</li>
+        </ul>
+
+        <!-- Navigation Buttons -->
+        <div class="nav-buttons">
+            <a href="fail_chapter2.html" class="btn">⬅️ پچھلا چیپٹر</a>
+            <a href="fail_chapter4.html" class="btn">اگلا چیپٹر ۴ ➡️</a>
+        </div>
+
+    </div>
+
+</body>
+</html>
