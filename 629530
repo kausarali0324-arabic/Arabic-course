@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>باب پنجم: اسم کے اہم مشتقات اور بنانے کا طریقہ - عربی گرامر اکیڈمی</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f7f6;
+            margin: 0;
+            padding: 10px;
+            direction: rtl;
+            text-align: right;
+            color: #333;
+        }
+        .container {
+            width: 100%;
+            max-width: 100%;
+            box-sizing: border-box;
+            background: #ffffff;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            font-size: 22px;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #2980b9;
+            font-size: 18px;
+            margin-top: 25px;
+            border-right: 4px solid #3498db;
+            padding-right: 8px;
+            background: #f9fcff;
+            padding-top: 6px;
+            padding-bottom: 6px;
+        }
+        .box {
+            background: #fafbfc;
+            border: 1px solid #e1e4e8;
+            border-radius: 6px;
+            padding: 12px;
+            margin-bottom: 12px;
+        }
+        /* خصوصی نوٹ باکس */
+        .benefit-note-box {
+            background: #fff8e1;
+            border: 2px dashed #f39c12;
+            border-radius: 8px;
+            padding: 12px;
+            margin-bottom: 20px;
+        }
+        .benefit-title {
+            color: #d35400;
+            font-weight: bold;
+            font-size: 16px;
+            margin-bottom: 8px;
+            border-bottom: 1px solid #fce8cd;
+            padding-bottom: 4px;
+        }
+        .lang-ar {
+            font-family: 'Amiri', 'Traditional Arabic', serif;
+            font-size: 18px;
+            color: #8e44ad;
+            margin: 6px 0;
+            font-weight: bold;
+        }
+        .lang-en {
+            direction: ltr;
+            text-align: left;
+            font-size: 14px;
+            color: #d35400;
+            margin: 8px 0;
+            font-weight: 600;
+            line-height: 1.5;
+            background: #fdf2e9;
+            padding: 10px;
+            border-left: 3px solid #e67e22;
+            border-radius: 4px;
+        }
+        .lang-ur {
+            font-size: 15px;
+            color: #2c3e50;
+            margin: 8px 0;
+            line-height: 1.7;
+            font-weight: 500;
+        }
+        .definition-box {
+            background: #eef9ff;
+            border-right: 4px solid #3498db;
+            padding: 10px;
+            margin-top: 8px;
+            margin-bottom: 8px;
+        }
+        .formation-box {
+            background: #fef5e7;
+            border-right: 4px solid #f39c12;
+            padding: 10px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        .example-box {
+            background: #e8f8f5;
+            border-right: 4px solid #27ae60;
+            padding: 10px;
+            margin-top: 10px;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        .nav-footer {
+            text-align: center;
+            margin-top: 25px;
+            border-top: 1px solid #e0e0e0;
+            padding-top: 15px;
+        }
+        .back-btn {
+            display: inline-block;
+            background: #34495e;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: bold;
+            font-size: 14px;
+        }
+        .copyright {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 12px;
+            color: #7f8c8d;
+            border-top: 1px dashed #dcdde1;
+            padding-top: 12px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>باب پنجم: اسم کے اہم مشتقات اور بنانے کا طریقہ<br><span style="font-size: 16px; color: #555;">(Derivative Nouns & Their Formation Rules in Arabic)</span></h1>
+        
+        <!-- باب کا خصوصی فائدہ اور اہمیت کا نوٹ -->
+        <div class="benefit-note-box">
+            <div class="benefit-title">🌟 اس باب کو پڑھنے کا عربی زبان میں فائدہ (Learning Benefits & Significance)</div>
+            
+            <p class="lang-ur"><strong>اردو نوٹ:</strong> اس باب میں آپ نہ صرف مشتقات کی تعریف سیکھیں گے بلکہ یہ بھی جانیں گے کہ ایک فعل (ماضی/مضارع) یا مصدر سے یہ الفاظ کس قاعدے کے تحت بنائے جاتے ہیں۔ یہ لغت کے بغیر خود سے عربی الفاظ ڈھالنے (Morphology) کی صلاحیت پیدا کرتا ہے۔</p>
+            
+            <div class="lang-en">
+                English Note: This chapter not only defines derivative nouns but also teaches the exact morphological rules of how they are formed from verbs (Past/Present) and roots, empowering you to build words independently.
+            </div>
+            
+            <p class="lang-ar">العربية: يهدف هذا الباب إلى تعليم الطالب قواعد الاشتقاق وكيفية صياغة الأسماء المشتقة من الأفعال والمصادر بدقة.</p>
+        </div>
+
+        <p class="lang-ur"><strong>مقدمہ:</strong> عربی گرامر میں صیغوں کو ماضی، مضارع اور مصدر سے تبدیل کر کے نئے الفاظ بنانے کے مخصوص ضابطے ہیں۔ آئیے ذیل میں ان تمام مشتقات اور ان کے بنانے کا طریقہ مطالعہ کریں۔</p>
+        
+        <div class="lang-en">
+            Introduction: Arabic grammar follows strict morphological patterns to derive nouns from verbs and roots. Below are the six major derivatives and their formation rules.
+        </div>
+
+        <!-- 1. مصدر -->
+        <h2>1. مصدر (The Root / Verbal Noun / Masdar)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>تعریف:</strong> مصدر وہ اصل کلمہ ہے جس سے افعال اور دوسرے مشتقات بنتے ہیں (بغیر زمانے کے)۔</p>
+                <div class="lang-en">Definition: The foundational verbal noun representing an action without tense.</div>
+                <p class="lang-ar">العربية: هو الأصل الذي تُشتق منه الأفعال والأسماء.</p>
+            </div>
+            <div class="formation-box">
+                <p class="lang-ur"><strong>بنانے کا طریقہ (Formation):</strong> ثلاثی مجرد کے ابواب میں مصدر سماعی ہوتے ہیں (یعنی لغت پر موقوف ہیں، جیسے نَصْرٌ، ضَرْبٌ)، البتہ غیر ثلاثی (مزید فیہ) اور صنعت کے مصدر قیاسی قاعدے کے مطابق مخصوص وزن پر آتے ہیں (جیسے باب افعال سے اِفْعَالٌ)۔</p>
+                <div class="lang-en">Formation Rule: For triliteral verbs, Masdars are auditory (learned from dictionaries), while derived forms follow strict morphological scales (e.g., If'aal for Form IV).</div>
+                <p class="lang-ar">العربية: مصادر الثلاثي سماعية تعتمد على المعاجم، بينما مصادر الرباعي وما فوقه قياسية بأوزان محددة.</p>
+            </div>
+        </div>
+
+        <!-- 2. اسمِ فاعل -->
+        <h2>2. اسمِ فاعل (The Active Participle / Ism Al-Fa'il)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>تعریف:</strong> وہ اسم جو کام کرنے والے کو ظاہر کرے (جیسے لکھنے والا)۔</p>
+                <div class="lang-en">Definition: A derivative noun indicating the doer or agent of an action.</div>
+                <p class="lang-ar">العربية: اسم للدلالة على من قام بالفعل.</p>
+            </div>
+            <div class="formation-box">
+                <p class="lang-ur"><strong>بنانے کا طریقہ (Formation):</strong><br>
+                1. <strong>ثلاثی مجرد میں:</strong> ماضی کے پہلے حرف کے بعد الف بڑھا کر اور درمیانی حرف کے نیچے زیر دے کر <span class="lang-ar">فَاعِل</span> کے وزن پر بنایا جاتا ہے (جیسے: كَتَبَ سے <span class="lang-ar">كَاتِبٌ</span>)۔<br>
+                2. <strong>غیر ثلاثی میں:</strong> مضارع مجہول کی طرح علامۃ المضارع کو میمِ مضموم (مُـ) سے بدلا جاتا ہے اور آخری حرف سے پہلے والے حرف کو مقصور (زیر والا) کیا جاتا ہے (جیسے: يُحْسِنُ سے <span class="lang-ar">مُحْسِنٌ</span>)۔</p>
+                <div class="lang-en">Formation Rule: For triliteral verbs, use the فَاعِل (Fa'il) pattern. For non-trilateral verbs, replace the present tense prefix with a prefixed Moomah (مُـ) and kasrah on the second-to-last letter.</div>
+                <p class="lang-ar">العربية: يُصاغ في الثلاثي على وزن (فَاعِل)، وفي غير الثلاثي بإبدال حرف المضطرة ميماً مضمومة وكسر ما قبل الآخر.</p>
+            </div>
+            <div class="example-box">
+                <strong>مثال (Example):</strong> <span class="lang-ar">نَصَرَ ➔ نَاصِرٌ</span> (مدد کرنے والا)
+            </div>
+        </div>
+
+        <!-- 3. اسمِ مفعول -->
+        <h2>3. اسمِ مفعول (The Passive Participle / Ism Al-Maf'ool)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>تعریف:</strong> وہ اسم جس پر فعل واقع ہوا ہو (جیسے لکھا ہوا)۔</p>
+                <div class="lang-en">Definition: A derivative noun indicating the recipient or object of an action.</div>
+                <p class="lang-ar">العربية: اسم للدلالة على من وقع عليه الفعل.</p>
+            </div>
+            <div class="formation-box">
+                <p class="lang-ur"><strong>بنانے کا طریقہ (Formation):</strong><br>
+                1. <strong>ثلاثی مجرد میں:</strong> شروع میں مفتوح مিম اور درمیانی حرف کے بعد واؤ بڑھا کر <span class="lang-ar">مَفْعُول</span> کے وزن پر بنایا جاتا ہے (جیسے: كَتَبَ سے <span class="lang-ar">مَكْتُوبٌ</span>)۔<br>
+                2. <strong>غیر ثلاثی میں:</strong> اسمِ فاعل کی طرح میمِ مضموم لایا جاتا ہے لیکن آخری حرف سے پہلے والے حرف پر زبر (فتحه) دی جاتی ہے (جیسے: يُكْرَمُ سے <span class="lang-ar">مُكْرَمٌ</span>)۔</p>
+                <div class="lang-en">Formation Rule: For triliteral, use مَفْعُول (Maf'ool). For non-trilateral, use prefixed Moomah (مُـ) with a fatha on the second-to-last letter.</div>
+                <p class="lang-ar">العربية: يُصاغ في الثلاثي على وزن (مَفْعُول)، وفي غير الثلاثي بإبدال حرف المضارعة ميماً مضمومة وفتح ما قبل الآخر.</p>
+            </div>
+            <div class="example-box">
+                <strong>مثال (Example):</strong> <span class="lang-ar">ضَرَبَ ➔ مَضْرُوبٌ</span> (مارا گیا ہوا)
+            </div>
+        </div>
+
+        <!-- 4. صفتِ مشبہہ -->
+        <h2>4. صفتِ مشبہہ (The Permanent Adjective / Sifat Mushabbahah)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>تعریف:</strong> لازم فعل سے بننے والی ایسی صفت جو دائمی ہو (جیسے خوبصورت، سخی)۔</p>
+                <div class="lang-en">Definition: An adjective derived from intransitive verbs indicating a permanent attribute.</div>
+                <p class="lang-ar">العربية: صفة مشتقة من الفعل اللازم للدلالة على ثبوت المعنى.</p>
+            </div>
+            <div class="formation-box">
+                <p class="lang-ur"><strong>بنانے کا طریقہ (Formation):</strong> صفتِ مشبہہ کے اوزان سماعی اور کثیر التنوع ہیں (یہ کسی ایک فکسڈ قاعدے پر نہیں بلکہ عربی لغت کے مروج اوزان جیسے فَعِيل، فَعِل، فَعْل پر آتی ہے)، اور یہ عام طور پر لازم فعل کے ماضی یا مصدر سے ماخوذ ہوتی ہے۔</p>
+                <div class="lang-en">Formation Rule: Sifat Mushabbahah patterns are varied and learned usage-wise (such as فَعِيل or فَعْل), typically derived from intransitive verb stems.</div>
+                <p class="lang-ar">العربية: أوزانها قياسية وسماعية متعددة (مثل فَعِيل، فََعِل، أَفْعَل) وتُؤخذ غالباً من الأفعال اللازمة.</p>
+            </div>
+            <div class="example-box">
+                <strong>مثال (Example):</strong> <span class="lang-ar">كَرُمَ ➔ كَرِيمٌ</span> (سخی)
+            </div>
+        </div>
+
+        <!-- 5. اسمِ تفضیل -->
+        <h2>5. اسمِ تفضیل (The Elative / Ism At-Tafdeel)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>تعریف:</strong> وہ صفت جو برتری یا موازنہ ظاہر کرے (زیادہ بڑا، سب سے بہتر)۔</p>
+                <div class="lang-en">Definition: A derivative noun indicating comparative or superlative degree.</div>
+                <p class="lang-ar">العربية: اسم للدلالة على زيادة صفة في شيء على آخر.</p>
+            </div>
+            <div class="formation-box">
+                <p class="lang-ur"><strong>بنانے کا طریقہ (Formation):</strong> یہ ثلاثی مجرد کے صیحح فعل کے ماضی سے بلاواسطہ <span class="lang-ar">أَفْعَلُ</span> (مذکر) اور <span class="lang-ar">فُعْلَى</span> (مونث) کے وزن پر بنایا جاتا ہے (جیسے كَبُرَ سے <span class="lang-ar">أَكْبَرُ</span>)۔ اگر فعل غیر ثلاثی یا رنگ و عیب کا ہو تو اس کے ساتھ <span class="lang-ar">أَشَدُّ</span> یا <span class="lang-ar">أَكْثَرُ</span> لگا کر اس کا مصدر لگایا جاتا ہے۔</p>
+                <div class="lang-en">Formation Rule: Directly formed on the pattern of أَفْعَل (Af'al) for masculine from triliteral verbs. For non-trilateral verbs, auxiliary words like أَشَدُّ (more intense) are used with the verbal noun.</div>
+                <p class="lang-ar">العربية: يُصاغ مباشرة من الثلاثي المجرد على وزن (أَفْعَل) للمذكر و(فُعْلَى) للمؤنث، ويُستعان بالكلمات المساعدة (مثل أشد) لغير الثلاثي.</p>
+            </div>
+            <div class="example-box">
+                <strong>مثال (Example):</strong> <span class="lang-ar">حَسُنَ ➔ أَحْسَنُ</span> (زیادہ اچھا / بہترین)
+            </div>
+        </div>
+
+        <!-- 6. اسمِ زمان و مکان -->
+        <h2>6. اسمِ زمان و مکان (Nouns of Time and Place / Ism Az-Zaman wal-Makan)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>تعریف:</strong> وہ اسم جو کام کے ہونے کی جگہ یا وقت کو ظاہر کرے۔</p>
+                <div class="lang-en">Definition: Nouns indicating the time or place of an action.</div>
+                <p class="lang-ar">العربية: اسمان للدلالة على زمان وقوع الفعل أو مكانه.</p>
+            </div>
+            <div class="formation-box">
+                <p class="lang-ur"><strong>بنانے کا طریقہ (Formation):</strong><br>
+                1. ثلاثی مجرد کے مضارع کو دیکھ کر بنتا ہے: اگر مضارع میں عین کلمہ مفتوح یا مضموم ہو (جیسے يَضْرِبُ/يَكْتُبُ)، تو یہ <span class="lang-ar">مَفْعَل</span> یا <span class="lang-ar">مَفْعِل</span> کے وزن پر بنتے ہیں (جیسے: مَكْتَبٌ، مَسْجِدٌ)۔<br>
+                2. غیر ثلاثی میں یہ بالکل **اسمِ مفعول** کے صیغے کی طرح ہی بنائے جاتے ہیں۔</p>
+                <div class="lang-en">Formation Rule: For triliteral verbs, based on the middle letter's vowel in the present tense, they follow مَفْعَل or مَفْعِل patterns. For non-trilateral, they match the passive participle form.</div>
+                <p class="lang-ar">العربية: يُصاغان في الثلاثي على وزن (مَفْعِل) أو (مَفْعَل) بحسب حركة عين الفعل في المضارع، وفي غير الثلاثي يطابقان اسم المفعول.</p>
+            </div>
+            <div class="example-box">
+                <strong>مثال (Example):</strong> <span class="lang-ar">سَجَدَ - يَسْجُدُ ➔ مَسْجِدٌ</span> (سجدہ کرنے کی جگہ)
+            </div>
+        </div>
+
+        <div class="nav-footer">
+            <a href="index.html" class="back-btn">⬅️ مین ڈیش بورڈ</a>
+        </div>
+
+        <div class="copyright">
+            &copy; 2026 عربی گرامر اکیڈمی (Arabic Grammar Academy). جملہ حقوق محفوظ ہیں۔
+        </div>
+    </div>
+
+</body>
+</html>
