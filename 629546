@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>باب چہارم: اہم مرکبات اور اسماء کے باہمی تعلقات - عربی گرامر اکیڈمی</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f7f6;
+            margin: 0;
+            padding: 10px;
+            direction: rtl;
+            text-align: right;
+            color: #333;
+        }
+        .container {
+            width: 100%;
+            max-width: 100%;
+            box-sizing: border-box;
+            background: #ffffff;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            font-size: 22px;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #2980b9;
+            font-size: 18px;
+            margin-top: 25px;
+            border-right: 4px solid #3498db;
+            padding-right: 8px;
+            background: #f9fcff;
+            padding-top: 6px;
+            padding-bottom: 6px;
+        }
+        .box {
+            background: #fafbfc;
+            border: 1px solid #e1e4e8;
+            border-radius: 6px;
+            padding: 12px;
+            margin-bottom: 12px;
+        }
+        /* خصوصی نوٹ باکس */
+        .benefit-note-box {
+            background: #fff8e1;
+            border: 2px dashed #f39c12;
+            border-radius: 8px;
+            padding: 12px;
+            margin-bottom: 20px;
+        }
+        .benefit-title {
+            color: #d35400;
+            font-weight: bold;
+            font-size: 16px;
+            margin-bottom: 8px;
+            border-bottom: 1px solid #fce8cd;
+            padding-bottom: 4px;
+        }
+        .lang-ar {
+            font-family: 'Amiri', 'Traditional Arabic', serif;
+            font-size: 18px;
+            color: #8e44ad;
+            margin: 6px 0;
+            font-weight: bold;
+        }
+        .lang-en {
+            direction: ltr;
+            text-align: left;
+            font-size: 14px;
+            color: #d35400;
+            margin: 8px 0;
+            font-weight: 600;
+            line-height: 1.5;
+            background: #fdf2e9;
+            padding: 10px;
+            border-left: 3px solid #e67e22;
+            border-radius: 4px;
+        }
+        .lang-ur {
+            font-size: 15px;
+            color: #2c3e50;
+            margin: 8px 0;
+            line-height: 1.7;
+            font-weight: 500;
+        }
+        .definition-box {
+            background: #eef9ff;
+            border-right: 4px solid #3498db;
+            padding: 10px;
+            margin-top: 8px;
+            margin-bottom: 8px;
+        }
+        .example-box {
+            background: #e8f8f5;
+            border-right: 4px solid #27ae60;
+            padding: 10px;
+            margin-top: 10px;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        .nav-footer {
+            text-align: center;
+            margin-top: 25px;
+            border-top: 1px solid #e0e0e0;
+            padding-top: 15px;
+        }
+        .back-btn {
+            display: inline-block;
+            background: #34495e;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: bold;
+            font-size: 14px;
+        }
+        .copyright {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 12px;
+            color: #7f8c8d;
+            border-top: 1px dashed #dcdde1;
+            padding-top: 12px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>باب چہارم: اہم مرکبات اور اسماء کے باہمی تعلقات<br><span style="font-size: 16px; color: #555;">(Important Arabic Compounds & Inter-Noun Relationships)</span></h1>
+        
+        <!-- باب کا خصوصی فائدہ اور اہمیت کا نوٹ -->
+        <div class="benefit-note-box">
+            <div class="benefit-title">🌟 اس باب کو پڑھنے کا عربی زبان میں فائدہ (Learning Benefits & Significance)</div>
+            
+            <p class="lang-ur"><strong>اردو نوٹ:</strong> اس باب کو سیکھنے کا بنیادی مقصد یہ ہے کہ آپ اکیلے الفاظ سے آگے بڑھ کر دو یا دو سے زیادہ الفاظ کے باہمی میل جول (مرکبات) کو سمجھ سکیں۔ عربی قرآن اور لٹریچر میں جملے انہی مرکبات (جیسے مضاف ومضاف الیہ یا صفت و موصوف) پر کھڑے ہوتے ہیں۔ اس کے بغیر عربی تراکیب کا صحیح ترجمہ اور مفہوم سمجھنا ناممکن ہے۔</p>
+            
+            <div class="lang-en">
+                English Note: The primary benefit of mastering this chapter is transitioning from individual words to meaningful phrases (Murakkabat). Arabic texts and the Quran heavily rely on structures like possessive phrases and descriptive attributes. Without this, accurate translation and structural comprehension are impossible.
+            </div>
+            
+            <p class="lang-ar">العربية: فائدة هذا الباب هي تمكين الطالب من فهم التراكيب اللغوية والجمل الإضافية والوصْفية، وهي المפתח الأساسي لفهم النصوص القرآنية والأدبية بدقة واستخراج المعاني الصحيحة.</p>
+        </div>
+
+        <p class="lang-ur"><strong>مقدمہ:</strong> جب دو یا دو سے زیادہ کلمات مل کر کوئی ایسا مجموعہ بنائیں جو مکمل بات تو نہ ہو لیکن ایک اکائی (Phrase) کے طور پر استعمال ہو، اسے 'مرکب' کہتے ہیں۔ اس باب میں ہم عربی زبان کے 6 انتہائی اہم مرکبات اور باہمی تعلقات کا مطالعہ کریں گے۔</p>
+        
+        <div class="lang-en">
+            Introduction: A compound (Murakkab) is a combination of two or more words that form a meaningful phrase. This chapter covers six vital structural relationships in Arabic grammar.
+        </div>
+
+        <!-- 1. مرکبِ اضافی -->
+        <h2>1. مرکبِ اضافی (The Possessive Compound / Mudhaf & Mudhaf Ilayh)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>اردو تعریف:</strong> ایسا مرکب جو ملکیت، تعلق یا نسبت ظاہر کرے، اسے مرکبِ اضافی کہتے ہیں۔ اس کے دو حصے ہوتے ہیں: 1. مضاف (جس کی نسبت دی جائے) 2. مضاف إليه (جس کی طرف نسبت دی جائے۔ مضاف پر نہ ال (الـ) آتا ہے اور نہ تنوین، جبکہ مضاف إليه ہمیشہ مجرور ہوتا ہے)۔</p>
+                <div class="lang-en">
+                    English Definition: A possessive phrase consisting of the Mudhaf (possessed object) and Mudhaf Ilayh (possessor). The Mudhaf never takes 'Al-' or Tanween, and the Mudhaf Ilayh is always in the genitive (Jarr) state.
+                </div>
+                <p class="lang-ar">العربية: هو تركيب ينسب شيئاً إلى شيء آخر، ويتألف من (المضاف) و(المضاف إليه المجرور دائماً).</p>
+            </div>
+            <div class="example-box">
+                <strong>مثال (Example):</strong><br>
+                <span class="lang-ar">كِتَابُ <strong>الرَّجُلِ</strong></span> (مرد کی کتاب)<br>
+                <em>یہاں 'کتاب' مضاف ہے (غیر معین/بغیر تنوین کے) اور 'الرجل' مضاف إليه ہے جو مجرور (زیر والا) ہے۔</em>
+            </div>
+        </div>
+
+        <!-- 2. مرکبِ وصفی اور نعت و منعوت -->
+        <h2>2. مرکبِ وصفی اور نعت و منعوت (The Descriptive Compound / Adjective & Described)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>اردو تعریف:</strong> ایسا مرکب جس میں کسی اسم کی اچھائی، برائی یا کوئی صفت بیان کی جائے۔ صفت کو 'نعت' اور جس کی صفت بیان ہو اسے 'منعوت' کہتے ہیں۔ نعت اپنے منعوت کی چار چیزوں میں مطابقت کرتی ہے: اعراب (رفع/نصب/جر)، جنس (مذکر/مونث)، عدد (واحد/تثنیہ/جمع) اور معرفہ و نکرہ۔</p>
+                <div class="lang-en">
+                    English Definition: A descriptive phrase where an adjective (Na't) describes a noun (Man'oot). The Na't matches the Man'oot in four aspects: case, gender, number, and definiteness.
+                </div>
+                <p class="lang-ar">العربية: هو تركيب يصف فيه النعتُ المنعوتَ، ويطابقه في الأربع: الإعراب، والتذكير والتأنيث، والفراد والجمع، والتعريف والتنكير.</p>
+            </div>
+            <div class="example-box">
+                <strong>مثال (Example):</strong><br>
+                <span class="lang-ar">اَلْوَلَدُ <strong>الصَّالِحُ</strong></span> (nek larka / نیک لڑکا)<br>
+                <em>یہاں 'الولد' منعوت ہے اور 'الصالح' اس کی نعت (صفت) ہے۔ دونوں معرفہ ہیں اور حالتِ رفع میں ہیں۔</em>
+            </div>
+        </div>
+
+        <!-- 3. عطف (Coordination) -->
+        <h2>3. عطف / مرکبِ عطف (Coordinated Compound / Atf)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>اردو تعریف:</strong> حرفِ عطف (جیسے وَ — اور، فَـ — پس، ثُمَّ — پھر) کے ذریعے دو کلمات کو آپس میں جوڑنے کو عطف کہتے ہیں۔ پہلے کلمے کو 'معطوف علیہ' اور دوسرے کو 'معطوف' کہا جاتا ہے۔ معطوف اپنے معطوف علیہ کے اعراب میں پیروی کرتا ہے۔</p>
+                <div class="lang-en">
+                    English Definition: Linking two words using conjunctions like 'Wa' (and), 'Fa' (then/so), or 'Thumma' (then). The second word (Ma'toof) follows the case of the first word (Ma'toof 'Alayh).
+                </div>
+                <p class="lang-ar">العربية: هو ربط كلمة بأخرى بواسطة حرف عطف (كالواو أو ثم)، وتبع المعطوفِ المعطوفَ عليه في الإعراب.</p>
+            </div>
+            <div class="example-box">
+                <strong>مثال (Example):</strong><br>
+                <span class="lang-ar">جَاءَ زَيْدٌ <strong>وَ</strong>عَمْروٌ</span> (زید اور عمرو آئے)<br>
+                <em>یہاں 'و' حرفِ عطف ہے، 'زيد' معطوف علیہ ہے اور 'عمرو' اس پر معطوف ہو کر مرفوع ہے۔</em>
+            </div>
+        </div>
+
+        <!-- 4. بدل (Apposition / Replacement) -->
+        <h2>4. بدل (Appositive / Badal)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>اردو تعریف:</strong> ایسا تابع اسم جس سے پہلے والے اسم (مبدل منہ) کی وضاحت مقصود ہو اور وہ خود اصل مقصودِ کلام ہو۔ بدل اپنے مبدل منہ کے اعراب میں ہو بہو نقل کرتا ہے۔</p>
+                <div class="lang-en">
+                    English Definition: An appositive noun that follows a primary noun (Mubdal minhu) to clarify or substitute it. It strictly matches the case of the Mubdal minhu.
+                </div>
+                <p class="lang-ar">العربية: هو التابع المقود بالحكم بلا واسطة، ويتبع المبدل منه في إعرابه.</p>
+            </div>
+            <div class="example-box">
+                <strong>مثال (Example):</strong><br>
+                <span class="lang-ar">جَاءَ <strong>أخوكَ</strong> <strong>خَالِدٌ</strong></span> (تمہارے بھائی خالد نے ملاقات کی / خالد آیا)<br>
+                <em>یہاں 'خالد' بدل ہے اور 'أخوك' مبدل منہ ہے۔ دونوں حالتِ رفع میں ہیں۔</em>
+            </div>
+        </div>
+
+        <!-- 5. توکید (Emphasis / Tawkid) -->
+        <h2>5. توکید (Emphatic Apposition / Tawkid)</h2>
+        <div class="box">
+            <div class="definition-box">
+                <p class="lang-ur"><strong>اردو تعریف:</strong> کسی بات یا اسم میں پختگی، تاکید یا ہہمگی پیدا کرنے کے لیے جو کلمہ لایا جائے اسے توکید کہتے ہیں۔ اس کی دو قسمیں ہیں: لفظی توکید (لفظ کا اعادہ) اور معنوی توکید (خاص الفاظ جیسے نفس، عَيْن، كُلّ وغیرہ کے ذریعے)۔</p>
+                <div class="lang-en">
+                    English Definition: An emphatic device used to reinforce a preceding word or concept. Divided into verbal repetition (Lafzi) or semantic emphasis using specific words like 'Nafs' or 'Kull' (Ma'nawi).
+                </div>
+                <p class="lang-ar">العربية: هو التابع المؤكد لمتبوعه رفعاً ونصباً وجراً، ويكون لفظياً بتكرار الكفظ، أو معنوياً بألفاظ مخصوصة (كالنفس والعين).</p>
+            </div>
+            <div class="example-box">
+                <strong>مثال (Example):</strong><br>
+                <span class="lang-ar">جَاءَ الرَّجُلُ <strong>نَفْسُهُ</strong></span> (مرد خود آ گیا۔ یعنی خود مرد نے آمد کی تصدیق کی)<br>
+                <em>یہاں 'نفسه' توکید معنوی ہے جو مؤکد کی پیروی کر رہی ہے۔</em>
+            </div>
+        </div>
+
+        <div class="nav-footer">
+            <a href="index.html" class="back-btn">⬅️ مین ڈیش بورڈ</a>
+        </div>
+
+        <div class="copyright">
+            &copy; 2026 عربی گرامر اکیڈمی (Arabic Grammar Academy). جملہ حقوق محفوظ ہیں۔
+        </div>
+    </div>
+
+</body>
+</html>
